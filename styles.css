@@ -17,6 +17,9 @@ p {
   margin: 50px; /* Adds space outside the border of paragraphs */
 }
 
-.header-container {
-  text-align: center;
-} 
+header {
+  background-color: #f1f1f1; /* Grey background */
+  padding: 20px 10px;      /* Padding around content */
+  text-align: center;      /* Center the content */
+  font-size: 30px;         /* Large text size */
+}
