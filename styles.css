@@ -16,3 +16,7 @@ p {
   padding: 30px; /* Adds space between the content and the border of paragraphs */
   margin: 50px; /* Adds space outside the border of paragraphs */
 }
+
+.header-container {
+  text-align: center;
+} 
