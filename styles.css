@@ -27,6 +27,7 @@ header {
 
 ul {
   position: sticky;
+  text-align: center;   
 }
 
  ul.topnav {
