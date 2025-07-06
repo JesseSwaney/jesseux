@@ -65,6 +65,10 @@ ul.topnav li.right {
     float: none;}
 }
 
+.content-section{
+  float: left;
+}
+
 .sidebar {
   float: right;
 }
