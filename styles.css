@@ -23,3 +23,9 @@ header {
   text-align: center;      /* Center the content */
   font-size: 30px;         /* Large text size */
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
