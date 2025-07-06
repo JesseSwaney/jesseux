@@ -25,6 +25,10 @@ header {
   font-size: 30px;         /* Large text size */
 }
 
+ul {
+  position: sticky;
+}
+
  ul.topnav {
   list-style-type: none;
   margin: 0;
