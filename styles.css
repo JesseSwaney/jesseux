@@ -24,8 +24,6 @@ header {
   font-size: 30px;         /* Large text size */
 }
 
-ul.topnav li {float: left;}
-
 ul.topnav {
   list-style-type: none;
   margin: 0;
@@ -33,6 +31,8 @@ ul.topnav {
   overflow: hidden;
   background-color: #0c0047;
 }
+
+ul.topnav li {float: left;}
 
 ul.topnav li a {
   display: block;
