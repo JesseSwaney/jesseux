@@ -37,8 +37,6 @@ ul {
   background-color: #0c0047;
 }
 
-ul.topnav li {float: left;}
-
 ul.topnav li a {
   display: block;
   color: white;
