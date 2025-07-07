@@ -1,11 +1,11 @@
 body {
-  background-color: skyblue; /* Sets the background color of the entire page */
+  background-color: whitesmoke; /* Sets the background color of the entire page */
   margin: 0;
 }
 
 h1 {
   color: blue; /* Sets the text color of all h1 headings to blue */
-  font-family: verdana; /* Sets the font family for headings */
+  font-family: "Arial", "sans-serif"; /* Sets the font family for headings */
   font-size: 300%; /* Sets the font size for headings (3 times the default) */
 }
 
@@ -60,13 +60,23 @@ ul.topnav li.right {
     float: none;}
 }
 
-.content-section {
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
   float: left;
-  width: 70%;
-  padding: 50px;
+  width: 75%;
 }
 
-.sidebar {
-  float: right;
-  width: 30%;
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+}
+
+footer {
+	text-align: center
+	
 }
