@@ -10,7 +10,7 @@ h1 {
 }
 
 p {
-  color: red; /* Sets the text color of all paragraphs to red */
+  color: black; /* Sets the text color of all paragraphs to red */
   font-family: courier; /* Sets the font family for paragraphs */
   font-size: 160%; /* Sets the font size for paragraphs (1.6 times the default) */
   border: 2px solid powderblue; /* Adds a border to paragraphs */
