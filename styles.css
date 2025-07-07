@@ -52,7 +52,7 @@ ul.topnav li a:hover:not(.active) {
 }
 
 ul.topnav li a.active {
-  background-color: #ffbb00;
+  background-color: #cccccc;
 }
 
 ul.topnav li.right {
