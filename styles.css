@@ -24,6 +24,8 @@ header {
   font-size: 30px;         /* Large text size */
 }
 
+ul.topnav li {float: left;}
+
 ul.topnav {
   float: left;
   list-style-type: none;
