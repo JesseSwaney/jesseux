@@ -13,7 +13,6 @@ p {
   color: black; /* Sets the text color of all paragraphs */
   font-family: courier; /* Sets the font family for paragraphs */
   font-size: 160%; /* Sets the font size for paragraphs (1.6 times the default) */
-  border: 2px solid powderblue; /* Adds a border to paragraphs */
   padding: 30px; /* Adds space between the content and the border of paragraphs */
   margin: 50px; /* Adds space outside the border of paragraphs */
 }
@@ -26,7 +25,7 @@ header {
 }
 
 ul.topnav {
-  float: left
+  float: left;
   list-style-type: none;
   margin: 0;
   padding: 0;
